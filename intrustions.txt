@@ -1,4 +1,4 @@
-Backend Python Second Semester Examination Project
+Backend Python Project
 
 
 You are building an API for a medical appointment application. 
@@ -23,7 +23,6 @@ NOTE:
 - For your database, use an in-memory data structure such as list or dictionaries.
 - Use Pydantic for data validation.
 - Use the appropriate status codes where necessary.
-- Use proper code structuring.
-- You are required to put your submission in a public github repository and make your submission 
+- Use proper code structuring. 
 
 
